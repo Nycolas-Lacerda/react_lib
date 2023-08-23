@@ -36,7 +36,7 @@
     "trailingComma": "es5"
   },
   "name": "ds-alurabooks-base-nycolas",
-  "author": "vinicios neves",
+  "author": "nycolas lacerda",
   "module": "dist/ds-alurabooks-base-nycolas.esm.js",
   "size-limit": [
     {
